@@ -1,0 +1,14 @@
+{
+  "name": "rajasthan-sports",
+  "version": "1.0.0",
+  "description": "Rajasthan Sports Website ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Tanwar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
